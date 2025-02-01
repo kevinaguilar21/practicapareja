@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 soy de mi bello Ecuador este Ecuador amazonico viva la patria
 me encanta mi pais
+=======
+soy de mi bello Ecuador este Ecuador amazonico viva la patria.
+>>>>>>> acc1b096f18665fcc623b81bdb834b2a30db938b

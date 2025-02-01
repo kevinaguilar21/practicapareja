@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Holi mi nombre es Steven
 mi segundo nombre es joel.
+=======
+Holi mi nombre es Steven.
+>>>>>>> acc1b096f18665fcc623b81bdb834b2a30db938b

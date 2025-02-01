@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 mi edad 22 años
 este año cumplo 23.
+=======
+mi edad 22 años.
+>>>>>>> acc1b096f18665fcc623b81bdb834b2a30db938b

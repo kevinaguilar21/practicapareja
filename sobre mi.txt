@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 mi mayor aspiracion es llegar ser alguien
 Frannnnnnnn
+=======
+mi mayor aspiracion es llegar ser alguien con titulo.
+>>>>>>> acc1b096f18665fcc623b81bdb834b2a30db938b
